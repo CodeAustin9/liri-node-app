@@ -1,2 +1,1 @@
-spoyify-this
-'something'
+spotify-this-song, 'something'
