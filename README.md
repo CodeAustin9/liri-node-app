@@ -1,8 +1,5 @@
-![picture](./images/2018-05-21.png?raw=true “Screen Shot”)
-![picture](./images/2018-05-20.png?raw=true “Screen Shot”)
-![picture](./images/2018-05-21(1).png?raw=true “Screen Shot”)
-![picture](./images/2018-05-21(2).png?raw=true “Screen Shot”)
-<<<<<<< HEAD
+![picture](./images/liri_homework1.png?raw=true “Screen Shot”)
+![picture](./images/liri_homework2.png?raw=true “Screen Shot”)
 # LIRI Bot
 
 ### Overview
@@ -236,7 +233,4 @@ If you have any questions about this project or the material we have covered, pl
 
 **Good Luck!**
 =======
-![picture](./images/2018-05-21.png?raw=true "Screen Shot")
-![picture](./images/2018-05-20.png?raw=true "Screen Shot")
 
->>>>>>> 1f74849781d3506315436712f1db277261429877
